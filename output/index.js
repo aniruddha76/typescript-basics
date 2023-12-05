@@ -1,0 +1,14 @@
+"use strict";
+let personAge;
+let personName;
+let isBoolean;
+personAge = 21;
+personName = "Aniruddha";
+isBoolean = true;
+console.log(personName + " " + personAge + " " + isBoolean);
+let something;
+let anotherThing;
+something = null;
+anotherThing = undefined;
+console.log(something + " " + undefined);
+console.log("Watch command is running");
